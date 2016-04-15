@@ -6,7 +6,7 @@
  * Tool: 
     * logstash (https://www.elastic.co/products/logstash)
     * elasticsearch (https://www.elastic.co/products/elasticsearch)
-    * elasticsearch-dump (https://github.com/taskrabbit/elasticsearch-dump) 
+    * elasticsearch-dump (https://github.com/taskrabbit/elasticsearch-dump)
 * Data Sources :
     * Twitter Streaming API (https://apps.twitter.com/)
 
