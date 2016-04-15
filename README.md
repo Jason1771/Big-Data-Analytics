@@ -1,4 +1,4 @@
-# Big-Data-Analytics
+# Big-Data-Analytics_HW1
  這個程式使用logstash去twitter抓取關鍵字為Apple的tweet，之後再把資料輸出到elasticsearch 去做儲存，最後再使用elasticsearch-dump把資料匯出成json檔案
  
  * OS: 
