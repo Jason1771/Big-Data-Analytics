@@ -6,9 +6,10 @@
  * Tool: 
     * logstash (https://www.elastic.co/products/logstash)
     * elasticsearch (https://www.elastic.co/products/elasticsearch)
-    * elasticsearch-dump (https://github.com/taskrabbit/elasticsearch-dump)
-* Data Sources :
+    * elasticsearch-dump (https://github.com/taskrabbit/elasticsearch-dump) 
+ * Data Sources :
     * Twitter Streaming API (https://apps.twitter.com/)
+    
 
 ## logstash
  首先需先取得Twitter Streaming API的KEY，再來撰寫logstash的conf檔，並把要搜尋的關鍵字keyword設定為Apple，取得的資料輸出到elasticsearch中
